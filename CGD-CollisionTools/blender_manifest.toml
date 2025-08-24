@@ -1,0 +1,20 @@
+schema_version = "1.0.0"
+
+id = "CGDCollisionTools"
+version = "1.0.0"
+name = "CGD-CollisionTools"
+tagline = "Quickly generate collision meshes for unreal"
+type = "add-on"
+
+
+maintainer = "Jamie Cooper"
+tags = ["3D View", "Mesh"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+
+
